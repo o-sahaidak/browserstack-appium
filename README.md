@@ -29,3 +29,6 @@ npm test
 
 ## CI/CD
 Tests run automatically on every push to `main` via GitHub Actions.
+
+## Test App
+Wikipedia Android Sample APK — [download here](https://www.browserstack.com/app-automate/sample-apps/android/WikipediaSample.apk)
